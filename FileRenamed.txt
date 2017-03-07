@@ -1,11 +1,11 @@
 welcome to GIT.....!!
 
-change1 
+Change -1 
 
-change -2
+Change -2
 
-change3
+Change -3
 
-change-4
+Change -4
 
-change-6
+Change -6
